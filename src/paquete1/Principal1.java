@@ -4,7 +4,7 @@ public class Principal1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Programa que nos permitira hacer un control de versiones con GIT");
+		System.out.println("Programa que permitira hacer un control de versiones con GIT");
 	}
 
 }
